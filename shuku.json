@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "course_id": "course-ba7c02f1-67b",
+  "type": "official",
+  "title": "deep-test",
+  "description": "测试",
+  "lesson": "认识输入、权重与输出",
+  "theme": "neural",
+  "build_profile": "static",
+  "entry": "index.html",
+  "name": "deep-test",
+  "version": "1.0.1",
+  "repository": "https://github.com/reduct-shuku/deep-test",
+  "ref": "main",
+  "path": ".",
+  "contributing": "CONTRIBUTING.md",
+  "changes": [
+    "统一为 Shuku 标准仓库格式，保留原课程内容和平台身份"
+  ]
+}
